@@ -1,5 +1,5 @@
 # DEMO
-playing with library carpentry
+Concentrating with library carpentry
 
 ## Today's topics
 
